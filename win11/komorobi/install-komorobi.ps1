@@ -1,12 +1,9 @@
-
-```powershell
-<# 
+<#
     install-komorobi.ps1
-    Installs Komorebi (LGUG2Z.komorebi) and whkd (LGUG2Z.whkd) via Winget,
-    performing pre-flight checks for OS version, Winget, long-path support.
+    Installs Komorebi (LGUG2Z.komorebi) via Winget,
+    deploys config files, enables autostart for Komorebi only,
+    then starts Komorebi with your configs.
 #>
-
-# No parameters needed
 
 function Assert-Windows10OrHigher {
     $v = [Environment]::OSVersion.Version
@@ -23,26 +20,8 @@ function Assert-WingetPresent {
     }
 }
 
-function Enable-LongPaths {
-    $regPath = 'HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem'
-    $current = Get-ItemProperty -Path $regPath -Name LongPathsEnabled -ErrorAction SilentlyContinue
-    if ($current.LongPathsEnabled -ne 1) {
-        Write-Host "Enabling long paths support..."
-        try {
-            Set-ItemProperty -Path $regPath -Name LongPathsEnabled -Value 1 -ErrorAction Stop
-            Write-Host "✓ Long paths enabled."
-        } catch {
-            Write-Warning "Failed to enable LongPaths. Run as Administrator and try again."
-        }
-    } else {
-        Write-Host "Long paths support already enabled."
-    }
-}
-
 function Install-PackageIfNeeded {
-    param (
-        [string]$PackageId
-    )
+    param([string]$PackageId)
     $found = winget search --id $PackageId --source winget | Select-String $PackageId
     if (-not $found) {
         Write-Error "Package '$PackageId' not found in Winget."
@@ -57,10 +36,23 @@ function Install-PackageIfNeeded {
     Write-Host "✓ $PackageId installed."
 }
 
+function Set-KomorebiConfig {
+    Write-Host "Deploying config files to your KOMOREBI_CONFIG_HOME (or %USERPROFILE%)..."
+    $cfgHome = if ($Env:KOMOREBI_CONFIG_HOME) { $Env:KOMOREBI_CONFIG_HOME } else { $Env:USERPROFILE }
+    foreach ($file in 'komorebi.json','komorebi.bar.json','whkdrc') {
+        $src = Join-Path $PSScriptRoot $file
+        if (Test-Path $src) {
+            Copy-Item -Path $src -Destination (Join-Path $cfgHome $file) -Force
+            Write-Host "✓ Copied $file → $cfgHome\$file"
+        } else {
+            Write-Warning "Config file '$file' not found in script folder."
+        }
+    }
+    return $cfgHome
+}
+
 function Assert-CommandExists {
-    param (
-        [string]$Cmd
-    )
+    param([string]$Cmd)
     if (-not (Get-Command $Cmd -ErrorAction SilentlyContinue)) {
         Write-Error "Command '$Cmd' not available after installation."
         exit 1
@@ -68,17 +60,26 @@ function Assert-CommandExists {
 }
 
 # --- Main ---
-Write-Host "=== Komorebi & whkd Installer ==="
+Write-Host "=== Komorebi Installer + Config Setup ===" -ForegroundColor Cyan
+
 Assert-Windows10OrHigher
 Assert-WingetPresent
-Enable-LongPaths
 
-# Install Komorebi and whkd
-Install-PackageIfNeeded -PackageId 'LGUG2Z.komorebi'   # :contentReference[oaicite:1]{index=1}
-Install-PackageIfNeeded -PackageId 'LGUG2Z.whkd'       # :contentReference[oaicite:2]{index=2}
+# Install Komorebi
+Install-PackageIfNeeded -PackageId 'LGUG2Z.komorebi'   # from WinGet :contentReference[oaicite:0]{index=0}
 
-# Verify
+# Deploy configs and grab the path
+$configHome = Set-KomorebiConfig                          # :contentReference[oaicite:1]{index=1}
+
+# Enable autostart for Komorebi only
+Write-Host "Enabling Komorebi autostart..."
+komorebic enable-autostart --config "$configHome\komorebi.json"  # :contentReference[oaicite:2]{index=2}
+
+# Finally, launch Komorebi (no whkd/bar)
+Write-Host "Starting Komorebi now..."
+komorebic start --config "$configHome\komorebi.json"             # :contentReference[oaicite:3]{index=3}
+
+# Verify binary is running
 Assert-CommandExists -Cmd 'komorebi'
-Assert-CommandExists -Cmd 'whkd'
 
-Write-Host "`nAll done! You can now run 'komorebi' and 'whkd' from PowerShell."
+Write-Host "`nAll set! Komorebi is installed, configured, autostart-enabled, and running." -ForegroundColor Green
