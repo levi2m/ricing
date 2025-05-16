@@ -10,4 +10,4 @@ Copy-Item "$dest\yasb\*"     $kdir -Recurse -Force
 # 3) install YASB Python deps
 pip install --user -r "$dest\yasb\requirements.txt"
 
-Write-Host "✅ Setup complete. Run `komorebic start --whkd --bar` and then `python -m yasb`"
+Write-Host "✅ Setup complete. Run `komorebic start` and then `python -m yasb` "
