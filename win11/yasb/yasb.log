@@ -1,0 +1,1126 @@
+2025-05-15 18:08:20,701 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 18:08:20,701 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 18:08:20,702 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 18:08:20,737 [INFO] [MainThread] [root/config.py:61]: Created default config file at C:\Users\l2m\.config\yasb\config.yaml
+2025-05-15 18:08:20,768 [INFO] [MainThread] [root/config.py:75]: Created default stylesheet at C:\Users\l2m\.config\yasb\styles.css
+2025-05-15 18:08:32,682 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 18:08:34,946 [ERROR] [MainThread] [root/weather.py:168]: API key or location is missing. Please provide a valid API key and location.
+2025-05-15 18:08:34,987 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 18:08:35,241 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:08:35,242 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:08:36,276 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 18:08:36,290 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-c42d91dd-31d0-11f0-ae27-e84e0699606d
+2025-05-15 18:08:36,317 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 18:08:36,318 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 18:08:43,395 [INFO] [MainThread] [root/utilities.py:115]: Created shortcut at C:\Users\l2m\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\yasb.lnk
+2025-05-15 18:11:32,444 [INFO] [MainThread] [root/controller.py:27]: Exiting Application from tray...
+2025-05-15 18:11:32,546 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-15 18:11:32,546 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-15 18:11:32,546 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-15 18:11:32,562 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-15 18:11:32,562 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-15 18:11:36,509 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 18:11:36,509 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 18:11:36,509 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 18:11:36,655 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 18:11:36,775 [ERROR] [MainThread] [root/weather.py:168]: API key or location is missing. Please provide a valid API key and location.
+2025-05-15 18:11:36,775 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 18:11:36,839 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:11:36,839 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:11:37,167 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 18:11:37,167 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-2fff49b2-31d1-11f0-8b20-e84e0699606d
+2025-05-15 18:11:37,342 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 18:11:37,351 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 18:11:42,056 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:11:42,066 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:11:42,082 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:15:12,048 [INFO] [MainThread] [root/controller.py:12]: Reloading Application from tray...
+2025-05-15 18:15:12,154 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-15 18:15:12,154 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-15 18:15:12,172 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-15 18:15:12,185 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-15 18:15:12,186 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-15 18:15:12,199 [ERROR] [Dummy-93] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001EA0E753390>. Removing link to WinEvent.EventObjectStateChange.
+2025-05-15 18:15:12,471 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 18:15:12,471 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 18:15:12,472 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 18:15:12,607 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 18:15:12,731 [ERROR] [MainThread] [root/weather.py:168]: API key or location is missing. Please provide a valid API key and location.
+2025-05-15 18:15:12,734 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 18:15:12,790 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:15:12,792 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:15:13,095 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 18:15:13,108 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-b0b3651e-31d1-11f0-a8d3-e84e0699606d
+2025-05-15 18:15:13,135 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 18:15:13,136 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 18:16:57,494 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-05-15 18:16:57,494 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-05-15 18:16:57,605 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-15 18:16:57,605 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-15 18:16:57,605 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-15 18:16:57,620 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-15 18:16:57,621 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-15 18:16:58,160 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 18:16:58,161 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 18:16:58,162 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 18:16:58,334 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 18:16:58,686 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 18:16:58,726 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:16:58,727 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:16:59,025 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 18:16:59,057 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 18:16:59,058 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 18:30:47,447 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 18:30:47,447 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 18:30:47,447 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 18:30:47,448 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-15 18:38:26,642 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,643 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,644 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,645 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,646 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,647 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,663 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,664 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,666 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,693 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,695 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,696 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,722 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,724 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,725 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,737 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,738 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,739 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,742 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,743 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,744 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,745 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,746 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,747 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,748 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,750 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,751 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,765 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,766 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,768 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,769 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,770 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,771 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,773 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,774 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,776 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,778 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,779 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,781 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,782 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,783 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,785 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,787 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,789 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,790 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,792 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,793 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,794 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,795 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,797 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,799 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,800 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,802 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,803 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,804 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,806 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,808 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,809 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,811 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,813 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,814 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,815 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,816 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,817 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,818 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,819 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,820 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,822 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,823 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,824 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,825 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,827 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,827 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,828 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,829 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,832 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,834 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,835 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,836 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,837 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,839 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,840 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,841 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,842 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,843 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,847 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,848 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,849 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,850 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,851 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,852 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,854 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,855 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,856 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,857 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,858 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,860 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,862 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,863 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,887 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,889 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,890 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,902 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,903 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,905 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,906 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,907 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,907 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,909 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,911 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,911 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,911 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,913 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,914 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,918 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,919 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,921 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,922 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,923 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,925 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,927 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,928 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,930 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,932 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,933 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,935 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,937 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,938 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,940 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,942 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,943 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,945 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,946 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,947 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,949 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,950 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,952 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,954 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,955 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,956 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,959 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,961 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,962 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,963 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,964 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,965 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,965 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,966 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,967 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,968 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,969 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,969 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,970 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,971 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,972 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,973 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,973 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,974 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,975 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,975 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,976 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,977 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,978 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,979 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,980 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,981 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,981 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,982 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,983 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,984 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,985 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,986 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,987 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:26,988 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,343 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,345 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,346 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,366 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,368 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,369 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,392 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,394 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,395 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,407 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,408 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,410 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,412 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,412 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,414 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,415 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,416 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,417 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,418 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,418 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,419 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,424 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,425 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,426 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,428 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,429 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,431 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,432 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,433 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,436 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,437 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,438 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,439 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,440 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,444 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,445 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,448 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,449 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,451 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,452 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,453 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,454 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,455 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,457 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,458 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,459 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,460 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,461 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,462 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,464 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,467 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,468 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,469 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,470 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,472 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,473 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,474 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,475 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,477 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,478 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,481 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,482 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,483 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,484 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,486 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 18:38:28,488 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,748 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,752 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,761 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,762 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,764 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,765 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,766 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,767 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,768 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,769 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,771 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,772 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,774 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,775 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,780 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,782 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,783 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,803 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,804 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,806 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,828 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,830 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,831 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,841 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,843 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,844 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,847 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,848 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,849 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,850 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,851 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,852 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,853 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,854 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,855 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,857 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,859 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,860 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,862 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,863 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,864 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,866 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,867 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,869 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,871 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,873 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,874 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,876 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,878 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,880 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,881 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,883 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,884 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,886 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,888 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,890 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,892 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,893 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,895 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,897 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,899 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,900 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,901 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,903 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,905 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,907 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,908 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,909 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,909 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,910 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,911 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,911 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,912 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,913 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,914 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,915 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,916 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,916 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,917 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,918 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,919 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,920 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,921 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,922 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,922 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,923 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,924 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,925 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,925 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,927 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,928 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,929 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,930 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,931 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:09:41,932 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:11:37,547 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-15 19:11:37,556 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-15 19:11:37,558 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-15 19:14:11,924 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 19:14:11,924 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 19:14:11,925 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 19:14:12,362 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 19:14:13,667 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 19:14:13,818 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:14:13,819 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:14:14,128 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 19:14:14,187 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 19:14:14,188 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 19:24:07,459 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-05-15 19:24:07,459 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-05-15 19:24:07,565 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-15 19:24:07,565 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-15 19:24:07,565 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-15 19:24:07,581 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-15 19:24:07,582 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-15 19:24:08,786 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 19:24:08,786 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 19:24:08,787 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 19:24:09,048 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 19:24:09,095 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:24:09,096 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:24:09,151 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 19:24:09,444 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 19:24:09,457 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-522818fc-31db-11f0-a00a-e84e0699606d
+2025-05-15 19:24:09,480 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 19:24:09,481 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 19:24:09,650 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 19:24:09.650198
+2025-05-15 19:24:50,746 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-05-15 19:24:50,746 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-05-15 19:24:50,847 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-15 19:24:50,847 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-15 19:24:50,847 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-15 19:24:50,849 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-15 19:24:50,850 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-15 19:24:50,859 [ERROR] [Dummy-25] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x000001D7B411D9F0>. Removing link to WinEvent.EventObjectDestroy.
+2025-05-15 19:24:51,538 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 19:24:51,539 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 19:24:51,539 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 19:24:52,164 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 19:24:52,241 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 19:24:52,282 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:24:52,283 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:24:52,605 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 19:24:52,647 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 19:24:52,648 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 19:24:52,957 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 19:24:52.957191
+2025-05-15 19:34:52,445 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 19:34:52.445003
+2025-05-15 19:42:08,092 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-15 19:42:08,201 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-15 19:42:08,201 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-15 19:42:08,207 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-15 19:42:08,217 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-15 19:42:08,218 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-15 19:42:08,600 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 19:42:08,600 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 19:42:08,601 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 19:42:09,225 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 19:42:09,316 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 19:42:09,364 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:42:09,365 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:42:09,760 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 19:42:09,808 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 19:42:09,809 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 19:42:10,196 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 19:42:10.196397
+2025-05-15 19:44:20,198 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-15 19:44:20,303 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-15 19:44:20,303 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-15 19:44:20,309 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-15 19:44:20,319 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-15 19:44:20,320 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-15 19:44:20,616 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 19:44:20,617 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 19:44:20,617 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 19:44:21,127 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 19:44:21,189 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 19:44:21,228 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:44:21,229 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:44:21,572 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 19:44:21,619 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 19:44:21,620 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 19:44:21,745 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 19:44:21.745982
+2025-05-15 19:44:34,319 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-15 19:44:34,430 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-15 19:44:34,430 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-15 19:44:34,434 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-15 19:44:34,445 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-15 19:44:34,446 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-15 19:44:34,733 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 19:44:34,733 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 19:44:34,734 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 19:44:35,246 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 19:44:35,305 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 19:44:35,344 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:44:35,345 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 19:44:35,696 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 19:44:35,741 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 19:44:35,742 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 19:44:35,815 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 19:44:35.815682
+2025-05-15 19:54:35,526 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 19:54:35.526458
+2025-05-15 19:59:58,476 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 19:59:58,477 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 19:59:58,477 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 19:59:59,696 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 20:00:01,902 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 20:00:02,151 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 20:00:02,152 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 20:00:02,667 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 20:00:02,718 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 20:00:02,720 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 20:00:03,244 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 20:00:03.244673
+2025-05-15 20:03:16,712 [DEBUG] [MainThread] [root/blurWindow.py:116]: Failed to apply settings: invalid literal for int() with base 16: ''
+2025-05-15 20:04:08,899 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-15 20:04:09,011 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-15 20:04:09,011 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-15 20:04:09,018 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-15 20:04:09,027 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-15 20:04:09,028 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-15 20:04:09,329 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 20:04:09,331 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 20:04:09,331 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 20:04:09,841 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 20:04:09,898 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 20:04:09,939 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 20:04:09,940 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 20:04:10,307 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 20:04:10,346 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 20:04:10,347 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 20:04:10,845 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 20:04:10.845479
+2025-05-15 20:08:40,759 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 20:08:40,760 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 20:08:40,760 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 20:08:41,353 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 20:08:41,416 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 20:08:41,462 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 20:08:41,463 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 20:08:41,857 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 20:08:41,903 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 20:08:41,904 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 20:08:42,175 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 20:08:42.175167
+2025-05-15 20:18:41,602 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 20:18:41.602705
+2025-05-15 20:20:27,815 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 20:20:27,816 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 20:20:27,816 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 20:20:29,169 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 20:20:31,473 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 20:20:31,724 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 20:20:31,725 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 20:20:32,665 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 20:20:32,714 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 20:20:32,715 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 20:20:33,519 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 20:20:33.519869
+2025-05-15 20:30:30,870 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 20:30:30.870584
+2025-05-15 20:40:30,163 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 20:40:30.163889
+2025-05-15 20:49:09,633 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-15 20:49:09,643 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-15 20:49:09,644 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-15 22:01:32,000 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-15 22:01:32,000 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-15 22:01:32,000 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-15 22:01:33,250 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-15 22:01:35,513 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-15 22:01:35,724 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:01:35,725 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:01:36,469 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-15 22:01:36,513 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-15 22:01:36,514 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-15 22:01:37,078 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 22:01:37.078465
+2025-05-15 22:02:07,955 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:07,958 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:07,959 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:07,960 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:07,962 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:07,963 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:07,988 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:07,989 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:07,991 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,009 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,010 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,012 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,036 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,037 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,038 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,050 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,052 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,054 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,055 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,057 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,058 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,059 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,061 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,062 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,064 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,064 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,067 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,069 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,070 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,072 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,074 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,077 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,078 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,080 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,083 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,084 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,087 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,088 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,092 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,094 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,096 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,098 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,100 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,102 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,104 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,106 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,107 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,109 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,111 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,112 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,113 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,115 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,116 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,117 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,118 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,120 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,122 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,123 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,124 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,125 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,126 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,127 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,129 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,130 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,131 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,132 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,134 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,135 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,136 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,137 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,139 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,141 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,142 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,144 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,145 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,147 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,148 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,149 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,150 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,152 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,153 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,155 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,156 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,157 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,159 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,160 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,161 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,162 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,163 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,165 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,167 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,169 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,171 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,173 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,174 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,175 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,177 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,178 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,180 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,194 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,195 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,197 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,208 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,210 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,212 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,213 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,214 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,215 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,216 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,217 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,218 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,219 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,220 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,221 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,226 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,227 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,228 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,229 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,231 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,233 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,234 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,237 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,238 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,239 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,241 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,243 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,244 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,246 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,247 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,248 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,251 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,252 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,254 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,255 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,257 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,259 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,260 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,261 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,263 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,265 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,266 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,267 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,268 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,269 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,269 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,270 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,271 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,272 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,273 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,274 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,275 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,276 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,277 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,278 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,279 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,280 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,281 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,282 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,283 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,284 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,285 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,286 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,287 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,287 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,288 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,289 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,289 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,291 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,292 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,293 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,295 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,297 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,298 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:08,299 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,652 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,653 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,654 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,655 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,657 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,658 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,667 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,669 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,670 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,672 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,673 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,675 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,676 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,677 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,678 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,679 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,680 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,682 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:02:09,684 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-15 22:11:33,435 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 22:11:33.435412
+2025-05-15 22:21:33,452 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 22:21:33.452385
+2025-05-15 22:31:33,468 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 22:31:33.468132
+2025-05-15 22:41:33,450 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 22:41:33.450460
+2025-05-15 22:51:33,451 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 22:51:33.451959
+2025-05-15 23:01:33,465 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 23:01:33.465338
+2025-05-15 23:11:33,436 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 23:11:33.436662
+2025-05-15 23:21:33,450 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 23:21:33.450916
+2025-05-15 23:31:33,431 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 23:31:33.431557
+2025-05-15 23:41:33,441 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 23:41:33.441276
+2025-05-15 23:51:33,445 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-15 23:51:33.445271
+2025-05-16 00:01:33,396 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-16 00:01:33.396355
+2025-05-16 09:30:13,329 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.2
+2025-05-16 09:30:13,331 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-05-16 09:30:13,331 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-16 09:30:14,563 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-16 09:30:16,809 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-16 09:30:17,048 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:30:17,049 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:30:17,901 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\l2m\.config\yasb
+2025-05-16 09:30:17,942 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-16 09:30:17,944 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-16 09:30:18,508 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-16 09:30:18.508200
+2025-05-16 09:32:31,208 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,210 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,211 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,212 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,213 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,214 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,227 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,229 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,230 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,255 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,257 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,259 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,283 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,285 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,287 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,296 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,298 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,299 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,301 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,302 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,303 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,304 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,306 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,307 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,308 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,309 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,311 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,326 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,327 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,328 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,330 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,331 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,332 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,334 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,336 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,338 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,339 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,341 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,342 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,344 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,346 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,348 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,349 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,351 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,352 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,354 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,355 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,357 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,358 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,360 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,362 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,364 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,365 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,367 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,369 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,371 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,372 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,373 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,376 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,378 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,379 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,380 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,382 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,383 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,384 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,385 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,387 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,388 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,390 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,391 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,392 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,393 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,395 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,397 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,398 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,399 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,401 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,402 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,403 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,404 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,405 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,407 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,408 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,410 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,411 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,412 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,414 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,415 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,417 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,418 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,419 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,421 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,423 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,425 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,426 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,427 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,429 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,430 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,431 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,449 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,452 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,453 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,463 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,465 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,467 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,469 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,470 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,472 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,473 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,474 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,475 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,476 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,476 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,477 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,481 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,482 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,484 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,485 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,486 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,488 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,490 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,492 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,493 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,494 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,496 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,497 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,499 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,501 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,502 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,505 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,506 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,508 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,510 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,511 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,513 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,514 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,516 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,517 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,519 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,521 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,522 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,523 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,524 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,525 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,526 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,527 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,528 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,529 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,530 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,531 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,532 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,533 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,533 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,534 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,535 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,536 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,537 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,538 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,538 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,539 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,540 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,541 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,542 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,542 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,543 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,544 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,545 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,546 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,547 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,547 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,548 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,549 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,550 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:31,551 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,920 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,922 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,923 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,945 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,946 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,948 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,970 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,972 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,974 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,985 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,987 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,989 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,990 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,992 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,993 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,994 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,995 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,996 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,997 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:32,998 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,000 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,002 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,003 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,004 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,006 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,007 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,009 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,010 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,011 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,013 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,014 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,015 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,016 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,018 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,019 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,022 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,024 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,026 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,027 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,028 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,029 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,030 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,032 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,033 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,034 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,035 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,036 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,038 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,039 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,040 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,043 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,044 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,045 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,047 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,048 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,050 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,051 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,052 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,054 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,056 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,057 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,059 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,060 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,062 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,065 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:32:33,067 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 09:40:14,709 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-16 09:40:14.709638
+2025-05-16 09:50:14,746 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-16 09:50:14.746013
+2025-05-16 10:00:14,746 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-16 10:00:14.746044
+2025-05-16 10:10:14,741 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-16 10:10:14.741250
+2025-05-16 10:18:18,166 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,171 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,180 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,182 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,184 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,186 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,187 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,189 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,192 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,194 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,195 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,198 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,199 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,201 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,202 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,204 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,206 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,207 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,219 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,221 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,222 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,225 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,226 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,228 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,230 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,231 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,233 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,235 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,237 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,239 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,241 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,243 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,245 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,247 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,248 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,250 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,251 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,253 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,255 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,256 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,259 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,260 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,261 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,262 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,263 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,264 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,265 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,266 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,267 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,268 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,269 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,270 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,271 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,271 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,272 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,273 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,274 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,275 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,276 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,276 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,277 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,278 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,278 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,279 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,280 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,281 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,282 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,283 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,284 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,285 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,286 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,287 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,288 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,289 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,289 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,290 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,291 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,292 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,293 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:18:18,294 [ERROR] [MainThread] [root/volume.py:537]: Failed to initialize volume interface: (-2147023728, 'Element not found.', (None, None, None, 0, None))
+2025-05-16 10:20:14,761 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-16 10:20:14.761049
+2025-05-16 10:30:14,704 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-16 10:30:14.703461
+2025-05-16 10:40:14,746 [INFO] [MainThread] [root/weather.py:67]: Fetched new weather data at 2025-05-16 10:40:14.746941
