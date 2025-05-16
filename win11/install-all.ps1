@@ -2,6 +2,8 @@
     install-all.ps1
     — Runs komorobi\install-komorobi.ps1 and yasb\install-yasb.ps1 unattended
     — Verifies that the commands komorebi, whkd and yasb are available
+    — Checks that the komorebi process is running
+    — Confirms an autostart shortcut for Komorebi exists
 #>
 
 [CmdletBinding()]
@@ -13,7 +15,6 @@ function Invoke-Script {
     )
     Write-Host "=== Running $ScriptPath ===" -ForegroundColor Cyan
 
-    # Launch in a fresh PowerShell process to respect -ExecutionPolicy Bypass etc.
     $scriptArgs = @(
         "-NoProfile"
         "-ExecutionPolicy","Bypass"
@@ -38,10 +39,36 @@ function Assert-Command {
     Write-Host "✓ Command '$Name' is available." -ForegroundColor Green
 }
 
+function Assert-ProcessRunning {
+    param(
+        [Parameter(Mandatory)][string]$Name
+    )
+    $proc = Get-Process -Name $Name -ErrorAction SilentlyContinue
+    if (-not $proc) {
+        Write-Error "✗ Process '$Name' is not running."
+        exit 1
+    }
+    Write-Host "✓ Process '$Name' is running (PID: $($proc.Id))." -ForegroundColor Green
+}
+
+function Assert-AutostartEntryExists {
+    # Check Startup folder for a Komorebi shortcut
+    $startupFolder = Join-Path $Env:APPDATA "Microsoft\Windows\Start Menu\Programs\Startup"
+    $links = Get-ChildItem -Path $startupFolder -Filter '*.lnk' -ErrorAction SilentlyContinue |
+             Where-Object { $_.BaseName -match '(?i)komorebi' }
+    if (-not $links) {
+        Write-Error "✗ No autostart shortcut for Komorebi found in:`n    $startupFolder"
+        exit 1
+    }
+    foreach ($lnk in $links) {
+        Write-Host "✓ Found autostart shortcut: $($lnk.Name)" -ForegroundColor Green
+    }
+}
+
 # ——— Main ———
 Write-Host "`n=== Unified Komorebi + YASB Installer ===`n" -ForegroundColor Yellow
 
-# Determine base folder (win11/)
+# Base folder (win11/)
 $BaseDir = Split-Path $MyInvocation.MyCommand.Definition -Parent
 
 # Run each installer
@@ -53,4 +80,13 @@ Assert-Command -Name 'komorebi'
 Assert-Command -Name 'whkd'
 Assert-Command -Name 'yasb'
 
-Write-Host "`nAll installations and verifications passed! 🎉" -ForegroundColor Yellow
+# Give Komorebi a moment to launch
+Start-Sleep -Seconds 2
+
+# Verify Komorebi process
+Assert-ProcessRunning -Name 'komorebi'
+
+# Verify autostart entry
+Assert-AutostartEntryExists
+
+Write-Host "`nAll installations, verifications, and autostart checks passed! 🎉" -ForegroundColor Yellow
