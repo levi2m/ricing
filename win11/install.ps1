@@ -1,4 +1,4 @@
-# 1) clone your repo
+# 1) clone this repo
 $dest = "$env:USERPROFILE\komorebi-yasb-config"
 git clone https://github.com/levi2m/ricing/win11.git $dest
 
