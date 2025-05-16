@@ -39,7 +39,7 @@ function Install-PackageIfNeeded {
     Write-Host "✓ $PackageId installed."
 }
 
-function Setup-YasbConfig {
+function Initialize-YasbConfig {
     $cfg = Join-Path $Env:USERPROFILE '.config\yasb'
     if (-not (Test-Path $cfg)) {
         New-Item -ItemType Directory -Path $cfg -Force |
@@ -69,7 +69,7 @@ Assert-Windows10OrHigher
 Assert-WingetPresent
 
 Install-PackageIfNeeded -PackageId 'AmN.yasb'   # :contentReference[oaicite:1]{index=1}
-Setup-YasbConfig
+Initialize-YasbConfig
 Assert-CommandExists -Cmd 'yasb'
 
 Write-Host "`nAll set! Run 'yasb' to launch your status bar."
