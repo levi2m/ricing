@@ -1,5 +1,5 @@
 <#
-    install-komorobi.ps1
+    install-komorebi.ps1
     Installs Komorebi (LGUG2Z.komorebi) via Winget,
     deploys config files, enables autostart for Komorebi only,
     then starts Komorebi with your configs.
